@@ -1,6 +1,6 @@
 {
   "name": "alexandria",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Demo App with Routing built-in (recommended)",
   "engines": {
     "node": "^18.17.0 || ^20.3.0 || >=21.0.0"
